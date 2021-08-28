@@ -8,10 +8,10 @@ In this assignment I was required to refactor code that was given to me to make 
 
 ## Snippet of my website
 
-(https://user-images.githubusercontent.com/80716109/131228521-6ab0bc57-5281-4f3c-864a-f641162ec590.png)
+![Snapshotofwebpage](https://user-images.githubusercontent.com/80716109/131228521-6ab0bc57-5281-4f3c-864a-f641162ec590.png)
 
 
 ## Live Website
 
-https://carsonccu.github.io/DU-homework-1/
+[LiveLink to Webpage](https://carsonccu.github.io/DU-homework-1/)
 
