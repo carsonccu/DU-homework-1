@@ -9,6 +9,10 @@ In this assignment I was required to refactor code that was given to me to make 
 
 ![Snapshotofwebpage](https://user-images.githubusercontent.com/80716109/131228521-6ab0bc57-5281-4f3c-864a-f641162ec590.png)
 
+## credits
+[Readme](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide)
+[HTML Semantics](https://www.w3schools.com/html/html5_semantic_elements.asp)
+
 
 ## Live Website
 
@@ -17,3 +21,6 @@ In this assignment I was required to refactor code that was given to me to make 
 ## Git Hub Repository
 
 [Link to repository](https://github.com/carsonccu/DU-homework-1)
+
+
+
